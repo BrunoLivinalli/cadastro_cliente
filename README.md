@@ -28,17 +28,17 @@ Este projeto foi criado com foco em estudos, prática de backend e construção 
 
 ---
 
-## ▶️ Como Executar
+## Como Executar
 
 1. Certifique-se de ter o **Python 3** instalado.  
 2. Clone o repositório:
 
-git clone https://github.com/seu-usuario/cadastro-clientes.git
+git clone https://github.com/BrunoLivinalli/cadastro_cliente
 
 cd cadastro-clientes
 
 python cadastro_clientes.py
----
+
 
 ## Autor
 
